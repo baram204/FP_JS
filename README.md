@@ -1,5 +1,9 @@
 # FP_JS
 
+## Home
+
+https://baram204.github.io/FP_JS/
+
 ## Preface
 
 practice for Functional javascript programing book(published by Insight in korea).
@@ -14,7 +18,7 @@ from : [Functional Style List Manipulation: Scala Vs Java 8 Vs Groovy](https://m
 
 I already know effective way to manage(manipulate) data in safe manner. It's function oriented way. 
 
-![](http://www.oracle.com/ocom/groups/public/@otn/documents/digitalasset/2228346.jpg)
+![](./static/images/2228346.jpg)
 
 from oracle : [Part 2: Processing Data with Java SE 8 Streams](http://www.oracle.com/technetwork/articles/java/architect-streams-pt2-2227132.html)
 
@@ -41,7 +45,7 @@ from : [함수형 스타일 목록 조작 : 스칼라 vs 자바 vs 그루비](ht
 
 데이터를 하나의 스트림으로 보고 함수를 적용해서 원하는 자료를 가공하거나 추출하는 방식입니다.
 
-![](http://www.oracle.com/ocom/groups/public/@otn/documents/digitalasset/2228346.jpg)
+![](./static/images/2228346.jpg)
 
 from oracle : [2 장: 자바 se 스트림스로 자료 처리하기](http://www.oracle.com/technetwork/articles/java/architect-streams-pt2-2227132.html)
 
@@ -59,9 +63,13 @@ Library
 - https://github.com/matcornic/hugo-theme-learn
 - http://openexchangerates.github.io/javascript-sandbox-console/
 
-Source codes
+Article & Source codes
 
+- [Lo-Dash Essentials](https://www.amazon.com/gp/product/1784398330/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1784398330&linkCode=as2&tag=colintohblog-20&linkId=4d998cd8f3d986c0a3aef8b8aefe4f4b)
+- [Lodash: 10 Javascript Utility Functions That You Should Probably Stop Rewriting](https://colintoh.com/blog/lodash-10-javascript-utility-functions-stop-rewriting)
+- https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore
 - https://github.com/indongyoo/functional-javascript
+- 
  
 Kakaotalk room I stay 
 
