@@ -14,7 +14,7 @@ from : [Functional Style List Manipulation: Scala Vs Java 8 Vs Groovy](https://m
 
 I already know effective way to manage(manipulate) data in safe manner. It's function oriented way. 
 
-![](http://www.oracle.com/ocom/groups/public/@otn/documents/digitalasset/2228346.jpg)
+![](./static/images/2228346.jpg)
 
 from oracle : [Part 2: Processing Data with Java SE 8 Streams](http://www.oracle.com/technetwork/articles/java/architect-streams-pt2-2227132.html)
 
@@ -41,7 +41,7 @@ from : [함수형 스타일 목록 조작 : 스칼라 vs 자바 vs 그루비](ht
 
 데이터를 하나의 스트림으로 보고 함수를 적용해서 원하는 자료를 가공하거나 추출하는 방식입니다.
 
-![](http://www.oracle.com/ocom/groups/public/@otn/documents/digitalasset/2228346.jpg)
+![](./static/images/2228346.jpg)
 
 from oracle : [2 장: 자바 se 스트림스로 자료 처리하기](http://www.oracle.com/technetwork/articles/java/architect-streams-pt2-2227132.html)
 
