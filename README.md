@@ -69,7 +69,6 @@ Article & Source codes
 - [Lodash: 10 Javascript Utility Functions That You Should Probably Stop Rewriting](https://colintoh.com/blog/lodash-10-javascript-utility-functions-stop-rewriting)
 - https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore
 - https://github.com/indongyoo/functional-javascript
-- 
  
 Kakaotalk room I stay 
 
