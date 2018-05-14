@@ -36,19 +36,9 @@ In korean
 
 자바를 처음 배운 프로그래머로서, 그 방법이 일견(논리적으로) 타당해 보였지만. 머리가 아팠어요. 논리적이지만 내 머리는 받아들기 힘든 수준의 코드였습니다. (제 지적인 능력의 한계라고 보심 됩니다.)
 
-![](https://cdn-images-1.medium.com/max/800/1*BPuSAXkkKf4o4MHmx7kEfw.png)
-
-from : [함수형 스타일 목록 조작 : 스칼라 vs 자바 vs 그루비](https://medium.com/beingprofessional/functional-style-list-manipulation-scala-vs-java-8-vs-groovy-89a2b7c99678)
-
-
 스칼라로 개발을 했을 때 traverse 가 구현된 객체에 apply() 혹은 find, filter, map 등에 익명함수를 태워보내 데이터를 쉽게 처리한 경험을 해봤기에 자바스크립트에서도 이렇게 하고 싶어졌습니다.
 
 데이터를 하나의 스트림으로 보고 함수를 적용해서 원하는 자료를 가공하거나 추출하는 방식입니다.
-
-![](./static/images/2228346.jpg)
-
-from oracle : [2 장: 자바 se 스트림스로 자료 처리하기](http://www.oracle.com/technetwork/articles/java/architect-streams-pt2-2227132.html)
-
 
 일을 빨리 끝내기 보다는 시키지 않은 일을 하느라 느리게 가는 스타일이고 문제 그 자체를 알아가는데 집학하는 성격이라 이 저장소를 만들고 공부를 시작합니다. 하지만 그래도 프리랜서인 자신의 역할을 자각하기에 책을 읽고 여기에 정리하는 것은 조금만 하려고 합니다.
 
